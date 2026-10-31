@@ -20,7 +20,8 @@ I like building things end to end: reproducible pipelines that run from one comm
 | [Global Causes of Death](https://github.com/muneef97/global-causes-of-death-analysis) | Classification, clustering and an interactive Shiny app in R | R, caret, Shiny |
 | [HR Attrition Dashboard](https://github.com/muneef97/hr-attrition-tableau-dashboard) | Data story on why employees leave, with recommendations | Tableau |
 | [UK Labour Market Dashboard](https://github.com/muneef97/uk-labour-market-powerbi-dashboard) | 67 years of UK wages, employment and productivity | Power BI, DAX |
-| [Airline Data Warehouse](https://github.com/muneef97/airline-passenger-data-warehouse) · [Route Graph](https://github.com/muneef97/airline-route-graph-neo4j) | Star-schema warehouse with ETL, and a graph database of routes | PostgreSQL, Neo4j |
+| [Airline Data Warehouse](https://github.com/muneef97/airline-passenger-data-warehouse) | Star-schema warehouse for 98,619 passenger departures, with ETL and Tableau analysis | PostgreSQL, Databricks, Tableau |
+| [Airline Route Graph](https://github.com/muneef97/airline-route-graph-neo4j) | Graph database of 57,301 global routes for multi-hop and hub analysis | Neo4j, Cypher, Python |
 
 ### Toolkit
 
